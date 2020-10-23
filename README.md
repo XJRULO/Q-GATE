@@ -1,4 +1,4 @@
-# Qbit
+# Q-GATE
 All about Quantum Computing
 Hello World,
 
